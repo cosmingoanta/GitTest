@@ -7,5 +7,6 @@ public class Main {
         for(int n : arr){
             System.out.print(n + " ");
         }
+        System.out.println("Nice");
     }
 }
